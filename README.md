@@ -2,7 +2,7 @@
 
 ## 概述
 
-基于c++20，[async_simple](https://zhuanlan.zhihu.com/p/419860500)作为协程库，asio作为网络io库，[msgpack](https://github.com/msgpack/msgpack-c)用于传输内容的序列化和反序列化。
+基于c++20的rpc demo，[async_simple](https://github.com/alibaba/async_simple)作为协程库，asio用于网络io，[msgpack](https://github.com/msgpack/msgpack-c)用于传输内容的序列化和反序列化。
 
 ## 环境
 只能说一跟协程扯上关系就很麻烦：
